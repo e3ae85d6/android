@@ -126,7 +126,7 @@
   <project path="external/srec" name="CyanogenMod/android_external_srec" />
   <project path="external/stlport" name="CyanogenMod/android_external_stlport" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" />
-  <project path="external/svox" name="CyanogenMod/android_external_svox" />
+  <!-- project path="external/svox" name="CyanogenMod/android_external_svox" / -->
   <project path="external/tagsoup" name="CyanogenMod/android_external_tagsoup" />
   <project path="external/tcpdump" name="CyanogenMod/android_external_tcpdump" />
   <project path="external/tinyxml" name="CyanogenMod/android_external_tinyxml" />
@@ -159,7 +159,7 @@
   <project path="hardware/ti/syslink" name="CyanogenMod/android_hardware_ti_syslink" />
   <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
-  <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
+  <!-- project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" / -->
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
   <project path="packages/apps/AccountsAndSyncSettings" name="CyanogenMod/android_packages_apps_AccountsAndSyncSettings" />
