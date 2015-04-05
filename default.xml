@@ -20,8 +20,11 @@
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
+  <!--
   <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" />
+  -->
   <project path="device/common" name="CyanogenMod/android_device_common" />
+  <!--
   <project path="device/bn/encore" name="CyanogenMod/android_device_bn_encore" />
   <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" />
   <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" />
@@ -42,7 +45,9 @@
   <project path="device/htc/glacier" name="CyanogenMod/android_device_htc_glacier" />
   <project path="device/htc/hero" name="CyanogenMod/android_device_htc_hero" />
   <project path="device/htc/heroc" name="CyanogenMod/android_device_htc_heroc" />
+  -->
   <project path="device/htc/legend" name="CyanogenMod/android_device_htc_legend" />
+  <!--
   <project path="device/htc/leo" name="CyanogenMod/android_device_htc_leo" />
   <project path="device/htc/liberty" name="CyanogenMod/android_device_htc_liberty" />
   <project path="device/htc/msm7x30-common" name="CyanogenMod/android_device_htc_msm7x30-common" />
@@ -71,7 +76,9 @@
   <project path="device/motorola/shadow" name="CyanogenMod/android_device_motorola_shadow" />
   <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" />
   <project path="device/motorola/zeppelin" name="CyanogenMod/android_device_motorola_zeppelin" />
+  -->
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
+  <!--
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" />
   <project path="device/samsung/c1-common" name="CyanogenMod/android_device_samsung_c1-common" />
   <project path="device/samsung/captivatemtd" name="CyanogenMod/android_device_samsung_captivatemtd" />
@@ -86,7 +93,9 @@
   <project path="device/samsung/galaxysmtd" name="CyanogenMod/android_device_samsung_galaxysmtd" />
   <project path="device/samsung/mesmerizemtd" name="CyanogenMod/android_device_samsung_mesmerizemtd" />
   <project path="device/samsung/showcasemtd" name="CyanogenMod/android_device_samsung_showcasemtd" />
+  -->
   <project path="device/samsung/tass" name="CyanogenMod/android_device_samsung_tass" />
+  <!--
   <project path="device/samsung/vibrantmtd" name="CyanogenMod/android_device_samsung_vibrantmtd" />
   <project path="device/semc/anzu" name="CyanogenMod/android_device_semc_anzu" />
   <project path="device/semc/coconut" name="CyanogenMod/android_device_semc_coconut" />
@@ -108,6 +117,7 @@
   <project path="device/semc/zeus-common" name="CyanogenMod/android_device_semc_zeus-common" />
   <project path="device/zte/blade" name="CyanogenMod/android_device_zte_blade" />
   <project path="device/zte/v9" name="CyanogenMod/android_device_zte_v9" />
+  -->
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
