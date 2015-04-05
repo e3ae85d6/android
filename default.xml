@@ -59,7 +59,9 @@
   <project path="device/htc/glacier" name="CyanogenMod/android_device_htc_glacier" />
   <project path="device/htc/hero" name="CyanogenMod/android_device_htc_hero" />
   <project path="device/htc/heroc" name="CyanogenMod/android_device_htc_heroc" />
+  -->
   <project path="device/htc/legend" name="CyanogenMod/android_device_htc_legend" />
+  <!--
   <project path="device/htc/leo" name="CyanogenMod/android_device_htc_leo" />
   <project path="device/htc/liberty" name="CyanogenMod/android_device_htc_liberty" />
   <project path="device/htc/mecha" name="CyanogenMod/android_device_htc_mecha" />
