@@ -4,6 +4,10 @@
            fetch="git://android.git.kernel.org/"
            review="review.source.android.com" />
 
+  <remote  name="aosp"
+           fetch="https://android.googlesource.com"
+           review="review.source.android.com" />
+
   <remote  name="github"
            fetch="git://github.com/"
            review="review.cyanogenmod.com" />
@@ -248,7 +252,10 @@
   <project path="external/srec" name="CyanogenMod/android_external_srec" />
   <project path="external/stlport" name="CyanogenMod/android_external_stlport" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" />
+  <!--
   <project path="external/svox" name="CyanogenMod/android_external_svox" />
+  -->
+  <project path="external/svox" name="platform/external/svox" remote="aosp" revision="gingerbread-release" />
   <project path="external/tagsoup" name="CyanogenMod/android_external_tagsoup" />
   <project path="external/tcpdump" name="CyanogenMod/android_external_tcpdump" />
   <project path="external/tinyxml" name="CyanogenMod/android_external_tinyxml" />
